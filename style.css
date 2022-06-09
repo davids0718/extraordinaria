@@ -1,0 +1,32 @@
+.titulo{
+    color: orangered;
+    background-color: lightgoldenrodyellow ;
+}
+.smr{
+    color: blue;
+    background-color: rgb(243, 203, 224);
+
+}
+.dam{
+    color: blue;
+    background-color: rgb(155, 147, 144);
+    
+}
+.asir{
+    color: blue;
+    background-color: rgb(127, 165, 236);
+    text-align: right;
+    
+}
+.text{
+    color: blue;
+    background-color: yellow;
+}
+.nombre{
+    color: red;
+}
+.parrafo{
+    background-color: lightgoldenrodyellow ; 
+}
+  
+
